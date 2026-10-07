@@ -1,0 +1,6 @@
+{
+  "name": "Workforce Intelligence Platform - منصة ذكاء القوى العاملة",
+  "description": "Unified workforce intelligence platform for employees, managers, and senior management with AI-powered team formation, skill risk analysis, employee development, and cost optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
