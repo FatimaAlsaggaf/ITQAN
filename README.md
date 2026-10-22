@@ -2,7 +2,6 @@
 
 An AI-powered workforce intelligence platform for skills-based team formation, employee development, and knowledge continuity.
 
-**2nd place — هاكثون بيلد إكس** · 
 
 ![Itqan workforce intelligence interface](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/itqan.png)
 
