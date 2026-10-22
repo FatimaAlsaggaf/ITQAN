@@ -2,7 +2,7 @@
 
 An AI-powered workforce intelligence platform for skills-based team formation, employee development, and knowledge continuity.
 
-**2nd place — هاكثون بيلد إكس** · [Live demo](https://itqannn.netlify.app/) · [Portfolio](https://fatima-alsaggaf-portfolio.vercel.app/)
+**2nd place — هاكثون بيلد إكس** · 
 
 ![Itqan workforce intelligence interface](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/itqan.png)
 
@@ -47,8 +47,3 @@ Itqan brings employee skills, experience, availability, and project requirements
 
 The deployed demo is the recommended way to explore the project. The current public repository contains configuration files but does not include an application source directory; local setup instructions will be added when the corresponding source is available and verified.
 
-## بالعربية
-
-إتقان منصة لذكاء القوى العاملة تستخدم الذكاء الاصطناعي لدعم تشكيل الفرق، وتحليل فجوات المهارات والتكلفة والمنفعة، واكتشاف مخاطر فقدان المعرفة. تساعد المنصة على تطوير الموظفين والمتدربين وتعزيز التظليل الوظيفي ونقل المعرفة.
-
-**حصل المشروع على المركز الثاني في هاكثون بيلد إكس.**
